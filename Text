@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="#">About</a>
+  <div class="dropdown-content">
+     <a href="#">Coaches</a>
+     <a href="#">Captains</a>
+     <a href="#">Culture</a>
+  </div>
+<a href="#">Join the Team</a>
+  <div class="dropdown-content">
+      <a href="#">Calendar</a>
+      <a href="#">Course Maps</a>
+  </div>
+<a href="#">Get Involved</a>
+  <div class="dropdown-content">
+      <a href="#">Calendar</a>
+      <a href="#">Course Maps</a>
+      <a href="#">Relays</a>
+      <a href="#">Summer Practices</a>
+      <a href="#">Summer Events</a>
+      <a href="#">Volunteering</a>
+  </div>
+<a href="#">Performance</a>
+  <div class="dropdown-content">
+   		<a href="#">Core</a>
+   		<a href="#">Form</a>
+      <a href="#">Injury Prevention</a>
+      <a href="#">Nutrition</a>
+      <a href="#">Racing Strategies</a>
+  </div>
+<a href="#">Awards & Records</a>
+  <div class="dropdown-content">
+      <a href="#">Race Day Warriors</a>
+      <a href="#">Royal "C" Winners</a>
+      <a href="#">School Records</a>
+  </div>
+
+</body>
+</html>
